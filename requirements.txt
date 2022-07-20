@@ -10,3 +10,4 @@ gensim==4.2.0
 itsdangerous==2.0.1
 gensim==4.2.0
 itsdangerous==2.0.1
+gunicorn==20.0.4
